@@ -1,0 +1,12 @@
+body{
+    /*background-color: #d2d2c1 ;
+    background-image: url(/Projeto_Modelo/imagens/fundo.png);*/
+
+    background: #d2d2c1 url(/Projeto_Modelo/imagens/fundo.png) ;
+    font: 16px Arial ;
+}
+
+#principal{
+    border: 1px solid red;
+    width: 900px;
+}
